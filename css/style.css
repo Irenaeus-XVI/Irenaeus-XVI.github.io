@@ -1,0 +1,17 @@
+h1{
+    font-size: 4.625rem;
+}
+
+p{
+    font-size: 1.625rem;
+}
+
+button{
+    width: 15.625rem;
+    height: 5rem;
+    background-color: blue;
+}
+
+button:hover{
+    background-color: green;
+}
